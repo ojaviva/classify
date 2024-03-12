@@ -1,2 +1,2 @@
-# -Algoritmo de Clasificación
-## _Clasificación_
+## -Algoritmo de Clasificación
+## *Clasificación*
