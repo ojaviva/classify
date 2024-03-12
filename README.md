@@ -18,6 +18,7 @@ Este proyecto utiliza un modelo de Random Forest para predecir fenómenos con ba
 ```bash
 git clone https://github.com/ojaviva/classify.git
 
-### ejecuta la siguiente linea 
+2.  ejecuta la siguiente linea:
+
 ```
   pip install -r requirements.txt
