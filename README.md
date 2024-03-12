@@ -21,4 +21,3 @@ git clone https://github.com/ojaviva/classify.git
 ### ejecuta la siguiente linea 
 ```
   pip install -r requirements.txt
-```
