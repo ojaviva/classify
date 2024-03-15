@@ -1,6 +1,6 @@
 # Predicción de Fenómenos con Random Forest
 
-Este proyecto utiliza un modelo de Random Forest para predecir fenómenos con base en datos proporcionados. El objetivo es proporcionar una herramienta útil para identificar posibles fenómenos basados en características específicas.
+Este proyecto utiliza un modelo de Random Forest para predecir fenómenos con base en datos proporcionados. El objetivo es proporcionar una herramienta útil para identificar posibles fenómenos basados en características específicas. el archivo `grafic_3d`.py Este proyecto tiene como objetivo proporcionar una herramienta para la visualización en 3D de datos utilizando el análisis de componentes principales (PCA) y modelos de aprendizaje automático. La visualización en 3D ayuda a comprender mejor la distribución de los datos en un espacio tridimensional, lo que puede ser útil para la exploración y el análisis de conjuntos de datos complejos.
 
 ## Contenido del Repositorio
 
